@@ -48,7 +48,8 @@ Linux: ./setup_mass_node_v3.bash (enter the Main PC's IP when prompted)
 3. Updating (v3.4.0)
 Windows: MASS_EUS_v3.4.0.bat
 Linux: ./MASS_EUS_v3.4.0.sh
-Why Open-Source?
+
+## Why Open-Source?
 
 A program that can run shell commands, read files, capture the screen, and let an AI model trigger OS actions on your computers—especially one accessible remotely over mobile data—should not be closed-source.
 

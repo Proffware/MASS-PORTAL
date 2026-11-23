@@ -71,7 +71,7 @@ I admit I’m not a fan of asking for donations, but time isn’t free either. M
 | Sütlü Türk Kahvesi (80 ml) | 130 TL | ~$2.57 |
 | Sütlü Türk Kahvesi Double (160 ml) | 145 TL | ~$2.87 |
 
-Or honestly, **just drop a star on the repo—we don’t need the money**, a star is more than enough!
+Or honestly, **just drop a star on the repo—we don’t care about money :)**, a star is more than enough!
 [https://img.shields.io/badge/Buy%20Us%20a%20Turkish%20Coffee-$2-EA4AAA?style=flat-square&logo=github-sponsors&logoColor=white]](https://github.com/sponsors/Proffware)
 
 

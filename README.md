@@ -1,4 +1,4 @@
-MASS Portal
+## MASS Portal
 
 MASS Portal is a self-hosted tool for monitoring and controlling Windows and Linux computers from an Android phone over Wi-Fi or mobile data.
 

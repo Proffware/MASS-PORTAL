@@ -55,9 +55,22 @@ A program that can run shell commands, read files, capture the screen, and let a
 
 MASS Portal was written as an experimental project for personal use. Keeping the C++20 backend and the Kotlin / Jetpack Compose Android app open-source allows anyone to read the code, verify what runs on their machine, and modify it as they see fit.
 
-## ☕ Help My Team
+## ☕ Help My Team — Buy Them a Turkish Coffee ($2)
 
-MASS Portal is free and open-source under AGPLv3. If it helps you out and you'd like to support our team, even a **$1** coffee means a lot:
-Not a big fan of funding links, honestly—but time is tight. If MASS Portal saves you some hassle and you have a spare buck, it helps keep the project moving.
 
-[[https://img.shields.io/badge/Help%20My%20Team-$1%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black]]([https://buymeacoffee.com/proffware](https://buymeacoffee.com/proffware?status=1))
+<img width="418" height="177" alt="image" src="https://github.com/user-attachments/assets/d493dfbe-4d35-4dc4-acdf-b764c9f44c2f" />
+
+
+I admit I’m not a fan of asking for donations, but time isn’t free either. MASS Portal stays free and open-source under AGPLv3 either way—if it saves you some hassle and you’ve got a couple of bucks lying around, feel free to buy our team a real Turkish coffee from one of the most popular coffee chains here in Türkiye (Kahve Dünyası):
+
+| Menu Item | Price (TRY) | Approx. USD *(Nov 23, 2026)* |
+| :--- | :---: | :---: |
+| Türk Kahvesi (80 ml) | 125 TL | ~$2.47 |
+| Türk Kahvesi Double (160 ml) | 140 TL | ~$2.77 |
+| Sütlü Türk Kahvesi (80 ml) | 130 TL | ~$2.57 |
+| Sütlü Türk Kahvesi Double (160 ml) | 145 TL | ~$2.87 |
+
+*(So we rounded it down to **$2**—basically a real Turkish coffee on us!)*
+[https://img.shields.io/badge/Buy%20Us%20a%20Turkish%20Coffee-$2-EA4AAA?style=flat-square&logo=github-sponsors&logoColor=white]](https://github.com/sponsors/Proffware)
+
+

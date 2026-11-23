@@ -1,3 +1,5 @@
+<img width="3168" height="1344" alt="Gemini_Generated_Image_212abq212abq212a" src="https://github.com/user-attachments/assets/60f10a44-b208-47cf-902f-54697e40b8da" />
+
 ## MASS Portal
 
 MASS Portal is a self-hosted tool for monitoring and controlling Windows and Linux computers from an Android phone over Wi-Fi or mobile data.

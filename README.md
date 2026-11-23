@@ -54,3 +54,10 @@ Linux: ./MASS_EUS_v3.4.0.sh
 A program that can run shell commands, read files, capture the screen, and let an AI model trigger OS actions on your computers—especially one accessible remotely over mobile data—should not be closed-source.
 
 MASS Portal was written as an experimental project for personal use. Keeping the C++20 backend and the Kotlin / Jetpack Compose Android app open-source allows anyone to read the code, verify what runs on their machine, and modify it as they see fit.
+
+## ☕ Help My Team
+
+MASS Portal is free and open-source under AGPLv3. If it helps you out and you'd like to support our team, even a **$1** coffee means a lot:
+Not a big fan of funding links, honestly—but time is tight. If MASS Portal saves you some hassle and you have a spare buck, it helps keep the project moving.
+
+[[https://img.shields.io/badge/Help%20My%20Team-$1%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black]]([https://buymeacoffee.com/proffware](https://buymeacoffee.com/proffware?status=1))

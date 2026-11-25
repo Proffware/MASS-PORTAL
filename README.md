@@ -56,9 +56,9 @@ Linux: ./start_mass_v3.bash (Prints both the local Wi-Fi IP and detected Remote/
 2. Additional PCs (Node Only)
 Windows: setup_mass_node_v3.bat (enter the Main PC's IP when prompted)
 Linux: ./setup_mass_node_v3.bash (enter the Main PC's IP when prompted)
-3. Updating (v3.4.0)
-Windows: MASS_EUS_v3.4.0.bat
-Linux: ./MASS_EUS_v3.4.0.sh
+3. Updating (v4.1.0)
+Windows: MASS_EUS_v4.1.0.bat
+Linux: ./MASS_EUS_v4.1.0.sh
 
 ## Why Open-Source?
 

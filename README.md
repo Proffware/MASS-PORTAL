@@ -1,5 +1,9 @@
 <img width="3168" height="1344" alt="Gemini_Generated_Image_212abq212abq212a" src="https://github.com/user-attachments/assets/60f10a44-b208-47cf-902f-54697e40b8da" />
 
+## Important !!
+I use android studio to upload the .APK to my android device 
+Just download v2.9 and EUS file (according to your system) and check EUS file then you confirm ita safe to exec. go ahead and use your very own homelab.
+ı trying to patch everything if you find some please inform me
 ## MASS Portal
 
 MASS Portal is a self-hosted tool for monitoring and controlling Windows and Linux computers from an Android phone over Wi-Fi or mobile data.

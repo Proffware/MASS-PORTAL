@@ -15,7 +15,7 @@ MASS Portal is a self-hosted tool for monitoring and controlling Windows and Lin
 
 This is a casual side project built out of personal interest to manage multiple PCs and connect them to local AI models without relying on third-party cloud platforms. Because it has direct access to your system and terminal, it is and should always remain open-source.
 
-How It Works
+## How It Works
 
 One computer runs the Master service (along with its own local Node), and any other Windows or Linux PCs run the Node service. The Android app connects directly to the Master to monitor and control all registered machines.
 
@@ -49,7 +49,7 @@ text
        +--- mTLS (:8444/:8445) ---> [ Node #1 (Main PC) ]
        |
        +--- mTLS (:8444/:8445) ---> [ Node #2..N (Other PCs) ]
-Setup & Update
+## Setup & Update
 1. Main PC (Master + Node)
 Windows: start_mass_v3.bat
 Linux: ./start_mass_v3.bash (Prints both the local Wi-Fi IP and detected Remote/WAN IP on startup so you can enter them in the Android app.)
